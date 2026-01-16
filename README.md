@@ -1,3 +1,6 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
+
+> All donations go towards charity. 5% is retained for Ko-Fi development costs.
 # PS4 PKG Validator
 
 A Linux desktop application for validating PS4 PKG files through drag-and-drop.
@@ -51,6 +54,7 @@ The validator checks:
 - **Firmware Detection**: Converts SYSTEM_VER to human-readable firmware version (e.g., 8.50)
 - **Trophy Check (Heuristic)**: Scans PKG for TRP markers
 - **Backport Hint (Heuristic)**: Flags filenames containing "backport"/"backported"
+- **Protection Status (Heuristic)**: Flags likely protected/official PKGs (no decryption performed)
 
 ## Credits
 

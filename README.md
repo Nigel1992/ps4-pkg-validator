@@ -1,6 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
-> **Support this project!** All donations go towards your chosen charity. You can pick any charity you'd like, and 5% is retained due to Ko-Fi fees. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :).
+> **Support this project!** All donations go towards your chosen charity. All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name can be added to the official donor list for this project on GitHub. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected! :). As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :).
 # PS4 PKG Validator
 
 A Linux desktop application for validating PS4 PKG files through drag-and-drop.
@@ -46,7 +46,7 @@ python main.py
 ## PKG File Structure
 
 The validator checks:
-- **Magic Number**: `0x7F434E54` ("\x7FCNT")
+- **Magic Number**: `0x7F434E54` ("CNT")
 - **Header Structure**: Minimum 192 bytes
 - **Entry Table**: Parses metadata entries for Content ID, Title ID, and param.sfo
 - **param.sfo Parsing**: Extracts title, firmware version, app version, category, raw SYSTEM_VER

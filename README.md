@@ -5,6 +5,8 @@
 
 # PS4 PKG Validator
 
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
+
 A Linux desktop application for validating PS4 PKG files through drag-and-drop.
 
 ## Features
